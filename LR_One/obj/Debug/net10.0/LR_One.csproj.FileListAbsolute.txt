@@ -1,0 +1,14 @@
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.GeneratedMSBuildEditorConfig.editorconfig
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.AssemblyInfoInputs.cache
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.AssemblyInfo.cs
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.csproj.CoreCompileInputs.cache
+E:\сишарп\LR_One\bin\Debug\net10.0\LR_One.exe
+E:\сишарп\LR_One\bin\Debug\net10.0\LR_One.deps.json
+E:\сишарп\LR_One\bin\Debug\net10.0\LR_One.runtimeconfig.json
+E:\сишарп\LR_One\bin\Debug\net10.0\LR_One.dll
+E:\сишарп\LR_One\bin\Debug\net10.0\LR_One.pdb
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.dll
+E:\сишарп\LR_One\obj\Debug\net10.0\refint\LR_One.dll
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.pdb
+E:\сишарп\LR_One\obj\Debug\net10.0\LR_One.genruntimeconfig.cache
+E:\сишарп\LR_One\obj\Debug\net10.0\ref\LR_One.dll
