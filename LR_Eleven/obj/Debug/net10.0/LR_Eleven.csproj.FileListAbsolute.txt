@@ -1,0 +1,14 @@
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.AssemblyInfoInputs.cache
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.AssemblyInfo.cs
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.csproj.CoreCompileInputs.cache
+E:\Csahrp\LR_Three\LR_Eleven\bin\Debug\net10.0\LR_Eleven.exe
+E:\Csahrp\LR_Three\LR_Eleven\bin\Debug\net10.0\LR_Eleven.deps.json
+E:\Csahrp\LR_Three\LR_Eleven\bin\Debug\net10.0\LR_Eleven.runtimeconfig.json
+E:\Csahrp\LR_Three\LR_Eleven\bin\Debug\net10.0\LR_Eleven.dll
+E:\Csahrp\LR_Three\LR_Eleven\bin\Debug\net10.0\LR_Eleven.pdb
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.dll
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\refint\LR_Eleven.dll
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.pdb
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\LR_Eleven.genruntimeconfig.cache
+E:\Csahrp\LR_Three\LR_Eleven\obj\Debug\net10.0\ref\LR_Eleven.dll
