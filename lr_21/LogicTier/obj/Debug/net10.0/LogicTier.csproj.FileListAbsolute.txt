@@ -1,0 +1,15 @@
+E:\Csahrp\LR_Three\LR_21\LogicTier\bin\Debug\net10.0\LogicTier.deps.json
+E:\Csahrp\LR_Three\LR_21\LogicTier\bin\Debug\net10.0\LogicTier.dll
+E:\Csahrp\LR_Three\LR_21\LogicTier\bin\Debug\net10.0\LogicTier.pdb
+E:\Csahrp\LR_Three\LR_21\LogicTier\bin\Debug\net10.0\DataTier.dll
+E:\Csahrp\LR_Three\LR_21\LogicTier\bin\Debug\net10.0\DataTier.pdb
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.csproj.AssemblyReference.cache
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.AssemblyInfoInputs.cache
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.AssemblyInfo.cs
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.csproj.CoreCompileInputs.cache
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.csproj.Up2Date
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.dll
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\refint\LogicTier.dll
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\LogicTier.pdb
+E:\Csahrp\LR_Three\LR_21\LogicTier\obj\Debug\net10.0\ref\LogicTier.dll
