@@ -1,0 +1,14 @@
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.AssemblyInfoInputs.cache
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.AssemblyInfo.cs
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.csproj.CoreCompileInputs.cache
+E:\Csahrp\LR_Three\LR_Twenty-two\bin\Debug\net10.0\LR_Twenty-two.exe
+E:\Csahrp\LR_Three\LR_Twenty-two\bin\Debug\net10.0\LR_Twenty-two.deps.json
+E:\Csahrp\LR_Three\LR_Twenty-two\bin\Debug\net10.0\LR_Twenty-two.runtimeconfig.json
+E:\Csahrp\LR_Three\LR_Twenty-two\bin\Debug\net10.0\LR_Twenty-two.dll
+E:\Csahrp\LR_Three\LR_Twenty-two\bin\Debug\net10.0\LR_Twenty-two.pdb
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.dll
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\refint\LR_Twenty-two.dll
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.pdb
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\LR_Twenty-two.genruntimeconfig.cache
+E:\Csahrp\LR_Three\LR_Twenty-two\obj\Debug\net10.0\ref\LR_Twenty-two.dll
