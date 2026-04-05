@@ -1,0 +1,14 @@
+E:\Csahrp\LR_Three\LR_Twelve\bin\Debug\net10.0-windows\LR_Twelve.exe
+E:\Csahrp\LR_Three\LR_Twelve\bin\Debug\net10.0-windows\LR_Twelve.deps.json
+E:\Csahrp\LR_Three\LR_Twelve\bin\Debug\net10.0-windows\LR_Twelve.runtimeconfig.json
+E:\Csahrp\LR_Three\LR_Twelve\bin\Debug\net10.0-windows\LR_Twelve.dll
+E:\Csahrp\LR_Three\LR_Twelve\bin\Debug\net10.0-windows\LR_Twelve.pdb
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.AssemblyInfoInputs.cache
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.AssemblyInfo.cs
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.csproj.CoreCompileInputs.cache
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.dll
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\refint\LR_Twelve.dll
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.pdb
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\LR_Twelve.genruntimeconfig.cache
+E:\Csahrp\LR_Three\LR_Twelve\obj\Debug\net10.0-windows\ref\LR_Twelve.dll
