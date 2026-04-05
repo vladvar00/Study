@@ -1,0 +1,14 @@
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.GeneratedMSBuildEditorConfig.editorconfig
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.AssemblyInfoInputs.cache
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.AssemblyInfo.cs
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.csproj.CoreCompileInputs.cache
+E:\сишарп\LR_Two\bin\Debug\net10.0\LR_Two.exe
+E:\сишарп\LR_Two\bin\Debug\net10.0\LR_Two.deps.json
+E:\сишарп\LR_Two\bin\Debug\net10.0\LR_Two.runtimeconfig.json
+E:\сишарп\LR_Two\bin\Debug\net10.0\LR_Two.dll
+E:\сишарп\LR_Two\bin\Debug\net10.0\LR_Two.pdb
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.dll
+E:\сишарп\LR_Two\obj\Debug\net10.0\refint\LR_Two.dll
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.pdb
+E:\сишарп\LR_Two\obj\Debug\net10.0\LR_Two.genruntimeconfig.cache
+E:\сишарп\LR_Two\obj\Debug\net10.0\ref\LR_Two.dll
